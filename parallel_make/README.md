@@ -1,7 +1,4 @@
----
-layout: doc
-title: "Parallel Make"
----
+
 
 
 ## Resource Allocation Graphs
@@ -20,7 +17,7 @@ Here is an example Makefile:
     	echo C
 
 
-Some more resources on RAGs & Deadlock: [Wikipedia](https://en.wikipedia.org/wiki/Deadlock), [Coursebook](http://cs241.cs.illinois.edu/coursebook/Deadlock#resource-allocation-graphs).
+Some more resources on RAGs & Deadlock: [Wikipedia](https://en.wikipedia.org/wiki/Deadlock).
 
 ## Program Inputs
 
